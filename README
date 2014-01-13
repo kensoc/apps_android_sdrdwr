@@ -1,0 +1,14 @@
+/*
+ * 
+ * External SD Application 
+ * which can 
+ * read from  external SDCARD
+ * and
+ * write to external SDCARD
+ * 
+ * AUTHOR: Hardik Patel<hardik.patel@kensoc.com>
+ * VERSION: 0.1
+ * DATE: 01/12/2014
+ * SOURCE PATH: git@github.com:kensoc/apps_android_sdrdwr.git
+ * 
+ */
